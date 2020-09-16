@@ -14,7 +14,7 @@ def run():
 
   n = digit_sum(value)
 
-  print(f"sum of digits of {value} is " + str(n))
+  print(f"sum of digits of {value} is " + str(n) + ".")
 
 if __name__ == "__main__":
   run ()
